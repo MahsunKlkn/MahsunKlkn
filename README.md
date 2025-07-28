@@ -2,7 +2,7 @@
 
 ## 🎯 Kısaca
 
-İnönü Üniversitesi’ndeyim ve yazılım geliştirmeye tutkuyla devam ediyorum.
+  9 Şubat 2001 doğumluyum ve Adana’da yaşıyorum. Eğitim hayatıma Bingöl Üniversitesi’nde başladım, ardından İnönü Üniversitesi’nde devam ediyorum. Sürekli kendimi geliştirmeye odaklanarak çeşitli projelerde yer aldım ve özellikle mobil uygulama geliştirme alanına ilgi duyuyorum. Bu alanda projeler geliştirerek deneyim kazanıyor, her geçen gün yeni teknolojiler öğrenmeye çalışıyorum.  Hedefim, bilgi birikimimi sürekli artırarak başarılı bir mühendis olarak kariyerime yön vermek. Takım çalışmasına önem veren, insanları motive edebilen ve yeniliklere açık biriyim. Öğrenme ve gelişme tutkum, hem kişisel hem de profesyonel hayatımda en büyük motivasyon kaynaklarım arasında yer alıyor.
 
 ## 🛠️ Teknolojiler & Araçlar
 
@@ -25,8 +25,10 @@
   - Sınav tarihlerini takip
   - Yurt ve konum haritası
   - Öğrenci topluluğunu bir araya getirme  
-- **7 Temmuz 2025** tarihli son güncellemeyle (v1.0.2) kullanıma açıldı. Günlük indirme sayısı 30+ düzeyinde:contentReference[oaicite:1]{index=1}.  
-- **Google Play** bağlantısı: [CampStu – TYT AYT & YKS Rehber](https://play.google.com/store/apps/details?id=com.mhsnkalkan.camp_stu)
+
+  - **7 Temmuz 2025** tarihli son güncellemeyle (v1.0.2) kullanıma açıldı. İndirme sayısı 100+ düzeyinde.
+  
+  - **Google Play** bağlantısı: [CampStu – TYT AYT & YKS Rehber](https://play.google.com/store/apps/details?id=com.mhsnkalkan.camp_stu)
 
 ### Diğer Projeler
 - **Benim İşim** – Flutter & Firebase ile geliştirilmiş bir projem.  
