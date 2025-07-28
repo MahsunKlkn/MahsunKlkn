@@ -41,11 +41,52 @@
 
 ## 🔗 Sosyal & İletişim
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mahsun%20Kalkan-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/mahsun-kalkan-a354b0245/)  
 
-Email: **mhsnkalkan@gmail.com**  
 
-## 📈 GitHub Aktivite**
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/mahsun-kalkan-a354b0245/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Mahsun%20Kalkan-blue?style=flat&logo=linkedin" alt="LinkedIn" />
+  </a>
+</div>
+
+<details>
+<summary><b>📱 CampStu Uygulaması</b></summary>
+
+<ul>
+  <li>
+    <b>Google Play:</b> <a href="https://play.google.com/store/apps/details?id=com.mhsnkalkan.camp_stu" target="_blank">CampStu – TYT AYT & YKS Rehber</a>
+  </li>
+</ul>
+</details>
+
+<details>
+<summary><b>🚗 Ehliyet Yolum Uygulaması</b></summary>
+
+<ul>
+  <li>
+    <b>Google Play:</b> Kapalı Test aşamasında. Kullanmak isterseniz <a href="https://docs.google.com/forms/d/1GqxSlEoiUsYCeGSRdsxhni0rxKB7KRu6SsRMX15Yasw/edit?hl=tr" target="_blank">bu formu</a> doldurup bana ulaşabilirsiniz.
+  </li>
+</ul>
+</details>
+
+<details>
+<summary><b>💼 Benim İşim Projesi</b></summary>
+
+<ul>
+  <li>
+    Projeye erişmek için <b>mhsnkalkan@gmail.com</b> adresine mail atmanız yeterli.
+  </li>
+</ul>
+</details>
+
+<br/>
+
+<b>Mail:</b> <a href="mailto:mhsnkalkan@gmail.com">mhsnkalkan@gmail.com</a>
+
+---
+
+## 📈 GitHub Aktivite
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=MahsunKlkn&show_icons=true&locale=en&layout=compact" alt="Mahsun‑Kalkan" /></p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=MahsunKlkn&show_icons=true&theme=radical&hide=issues,contribs" alt="Mahsun‑Kalkan" /></p>
@@ -54,8 +95,8 @@ Email: **mhsnkalkan@gmail.com**
 
 ### 🎯 Hedeflerim
 
-- Mobil ve frontend geliştirme becerilerimi giderek artırmak  
-- Görüntü işleme ve makine öğrenimi alanlarına yönelmek  
+- Mobil ve frontend geliştirme becerilerimi giderek artırmak
+- Görüntü işleme ve makine öğrenimi alanlarına yönelmek
 - Açık kaynaklı projelere katkıda bulunmak ve toplulukla iş birliği yapmak
 
 ---
