@@ -47,8 +47,8 @@ Email: **mhsnkalkan@gmail.com**
 
 ## 📈 GitHub Aktivite**
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mhsnkalkan&show_icons=true&locale=en&layout=compact" alt="Mahsun‑Kalkan" /></p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=mhsnkalkan&show_icons=true&theme=radical&hide=issues,contribs" alt="Mahsun‑Kalkan" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=MahsunKlkn&show_icons=true&locale=en&layout=compact" alt="Mahsun‑Kalkan" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=MahsunKlkn&show_icons=true&theme=radical&hide=issues,contribs" alt="Mahsun‑Kalkan" /></p>
 
 ---
 
