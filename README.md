@@ -32,7 +32,7 @@
 
 ### Diğer Projeler
 - **Benim İşim** – Flutter & Firebase ile geliştirilmiş bir projem.  
-- **Ehliyet Yolum** – Sınav hazırlık odaklı Flutter & Firebase uygulaması.
+- **Ehliyet Yolum** – Ehliyet sınavına hazırlık ve başarı odaklı projem.
 
 ## 💼 Eğitim & Deneyim
 
