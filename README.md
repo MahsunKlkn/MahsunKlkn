@@ -67,9 +67,11 @@
 
 <ul>
   <li>
-    <b>Google Play:</b> Kapalı Test aşamasında. Kullanmak isterseniz <a href="https://docs.google.com/forms/d/1GqxSlEoiUsYCeGSRdsxhni0rxKB7KRu6SsRMX15Yasw/edit?hl=tr" target="_blank">bu formu</a> doldurup bana ulaşabilirsiniz.
+    <b>Google Play:</b> <a href="https://play.google.com/store/apps/details?id=com.mhsnkalkan.ehliyet_yolum" target="_blank">Ehliyet Yolum</a>
   </li>
 </ul>
+
+
 </details>
 
 <details>
