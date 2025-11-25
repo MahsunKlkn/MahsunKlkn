@@ -56,7 +56,9 @@
     <img src="https://img.shields.io/badge/LinkedIn-Mahsun%20Kalkan-blue?style=flat&logo=linkedin" alt="LinkedIn" />
   </a>
 </div>
+---
 
+---
 <details open>
 <summary><b>📱 CampStu Uygulaması</b></summary>
 
@@ -73,7 +75,9 @@
 </details>
 
 
+---
 
+---
 <details open>
 <summary><b>🚗 Ehliyet Yolum Uygulaması</b></summary>
 
@@ -102,7 +106,9 @@
 
 
 </details>
+---
 
+---
 <details open>
 <summary><b>🍝 Makarnam Penne Projesi</b></summary>
 
@@ -124,7 +130,9 @@
   <img src="https://raw.githubusercontent.com/MahsunKlkn/MakarnamPenneFlutter/main/assets/5.png" width="220" style="border-radius: 12px; margin: 10px;" />
 </p>
 </details>
+---
 
+---
 <details>
 <summary><b>💼 Benim İşim Projesi</b></summary>
 
@@ -140,8 +148,6 @@
 <b>Mail:</b> <a href="mailto:mhsnkalkan@gmail.com">mhsnkalkan@gmail.com</a>
 
 ---
-
-
 
 ---
 <br clear="left"/>
