@@ -62,6 +62,13 @@
 </ul>
 </details>
 
+### 🎓 CampStu – Ekran Görüntüleri
+
+<p align="center">
+  <img src="assets/7.png" width="220" style="border-radius: 12px; margin: 10px;" />
+  <img src="assets/8.png" width="220" style="border-radius: 12px; margin: 10px;" />
+</p>
+
 <details>
 <summary><b>🚗 Ehliyet Yolum Uygulaması</b></summary>
 
@@ -70,6 +77,20 @@
     <b>Google Play:</b> <a href="https://play.google.com/store/apps/details?id=com.mhsnkalkan.ehliyet_yolum" target="_blank">Ehliyet Yolum</a>
   </li>
 </ul>
+
+### 🚗 Ehliyet Yolum – Ekran Görüntüleri
+
+<p align="center">
+  <img src="assets/1.png" width="220" style="border-radius: 12px; margin: 10px;" />
+  <img src="assets/2.png" width="220" style="border-radius: 12px; margin: 10px;" />
+  <img src="assets/3.png" width="220" style="border-radius: 12px; margin: 10px;" />
+</p>
+
+<p align="center">
+  <img src="assets/4.png" width="220" style="border-radius: 12px; margin: 10px;" />
+  <img src="assets/5.png" width="220" style="border-radius: 12px; margin: 10px;" />
+  <img src="assets/6.png" width="220" style="border-radius: 12px; margin: 10px;" />
+</p>
 
 
 </details>
