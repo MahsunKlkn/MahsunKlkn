@@ -141,12 +141,7 @@
 
 ---
 
-## 📈 GitHub Aktivite
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MahsunKlkn&show_icons=true&locale=en&layout=compact" alt="Mahsun‑Kalkan" />
-  <img src="https://github-readme-stats.vercel.app/api?username=MahsunKlkn&show_icons=true&theme=radical&hide=issues,contribs" alt="Mahsun‑Kalkan" />
-</div>
 
 ---
 <br clear="left"/>
