@@ -6,15 +6,19 @@
 
 ## 🛠️ Teknolojiler & Araçlar
 
-[![C#](https://img.shields.io/badge/C%23-%23239120.svg?&style=flat&logo=c-sharp&logoColor=white)](https://docs.microsoft.com/en-us/dotnet/csharp/)  
-[![Python](https://img.shields.io/badge/Python-%233776AB.svg?&style=flat&logo=python&logoColor=white)](https://www.python.org/)  
-[![C++](https://img.shields.io/badge/C%2B%2B-%2300599C.svg?&style=flat&logo=c%2B%2B&logoColor=white)](https://isocpp.org/)  
-[![C](https://img.shields.io/badge/C-%2300599C.svg?&style=flat&logo=c&logoColor=white)](https://www.learn-c.org/)
+[![C#](https://img.shields.io/badge/C%23-%23239120.svg?&style=flat&logo=c-sharp&logoColor=white)](https://docs.microsoft.com/en-us/dotnet/csharp/)  
+[![Python](https://img.shields.io/badge/Python-%233776AB.svg?&style=flat&logo=python&logoColor=white)](https://www.python.org/)  
+[![C++](https://img.shields.io/badge/C%2B%2B-%2300599C.svg?&style=flat&logo=c%2B%2B&logoColor=white)](https://isocpp.org/)  
+[![C](https://img.shields.io/badge/C-%2300599C.svg?&style=flat&logo=c&logoColor=white)](https://www.learn-c.org/)  
+[![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?&style=flat&logo=flutter&logoColor=white)](https://flutter.dev/)  
+[![.NET](https://img.shields.io/badge/.NET-%23512BD4.svg?&style=flat&logo=dotnet&logoColor=white)](https://dotnet.microsoft.com/)  
+[![React](https://img.shields.io/badge/React-%2361DAFB.svg?&style=flat&logo=react&logoColor=black)](https://reactjs.org/)
 
-[![Visual Studio](https://img.shields.io/badge/Visual%20Studio-%235C2D91.svg?&style=flat&logo=visual-studio&logoColor=white)](https://visualstudio.microsoft.com/)  
-[![VS Code](https://img.shields.io/badge/VS%20Code-%23007ACC.svg?&style=flat&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)  
-[![PyCharm](https://img.shields.io/badge/PyCharm-%23000000.svg?&style=flat&logo=pycharm&logoColor=white)](https://www.jetbrains.com/pycharm/)  
-[![Unity](https://img.shields.io/badge/Unity-%23000000.svg?&style=flat&logo=unity&logoColor=white)](https://unity.com/)
+[![Visual Studio](https://img.shields.io/badge/Visual%20Studio-%235C2D91.svg?&style=flat&logo=visual-studio&logoColor=white)](https://visualstudio.microsoft.com/)  
+[![VS Code](https://img.shields.io/badge/VS%20Code-%23007ACC.svg?&style=flat&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)  
+[![PyCharm](https://img.shields.io/badge/PyCharm-%23000000.svg?&style=flat&logo=pycharm&logoColor=white)](https://www.jetbrains.com/pycharm/)  
+[![Unity](https://img.shields.io/badge/Unity-%23000000.svg?&style=flat&logo=unity&logoColor=white)](https://unity.com/)  
+[![SQL Server](https://img.shields.io/badge/SQL%20Server-%23CC2927.svg?&style=flat&logo=microsoft-sql-server&logoColor=white)](https://www.microsoft.com/en-us/sql-server)
 
 ## 🚀 Projeler & Uygulamalar
 
