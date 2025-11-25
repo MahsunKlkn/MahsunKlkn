@@ -80,7 +80,7 @@
 
 ### 🚗 Ehliyet Yolum – Ekran Görüntüleri
 <p align="center">
-  <img src="assets/1.png" width="220" style="border-radius: 12px; margin: 10px;" />
+  <img src="assets/1.png" style="border-radius: 12px; margin: 10px;" />
   
 </p>
 <p align="center">
