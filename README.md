@@ -60,16 +60,14 @@
     <b>Google Play:</b> <a href="https://play.google.com/store/apps/details?id=com.mhsnkalkan.camp_stu" target="_blank">CampStu – TYT AYT & YKS Rehber</a>
   </li>
 </ul>
-</details>
-
 ### 🎓 CampStu – Ekran Görüntüleri
 
 <p align="center">
   <img src="assets/7.png" width="220" style="border-radius: 12px; margin: 10px;" />
 </p>
-<p align="center">
-  <img src="assets/8.png" width="220" style="border-radius: 12px; margin: 10px;" />
-</p>
+</details>
+
+
 
 <details>
 <summary><b>🚗 Ehliyet Yolum Uygulaması</b></summary>
