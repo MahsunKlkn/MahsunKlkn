@@ -98,6 +98,25 @@
 
 </details>
 
+<details open>
+<summary><b>🍝 Makarnam Penne Projesi</b></summary>
+
+<ul>
+  <li>
+    <b>GitHub:</b> <a href="https://github.com/MahsunKlkn/MakarnamPenneFlutter" target="_blank">MakarnamPenneFlutter</a>
+  </li>
+</ul>
+
+### 🍝 Makarnam Penne – Ekran Görüntüleri
+<p align="center">
+  <img src="https://raw.githubusercontent.com/MahsunKlkn/MakarnamPenneFlutter/main/assets/1.png" width="220" style="border-radius: 12px; margin: 10px;" />
+  <img src="https://raw.githubusercontent.com/MahsunKlkn/MakarnamPenneFlutter/main/assets/2.png" width="220" style="border-radius: 12px; margin: 10px;" />
+  <img src="https://raw.githubusercontent.com/MahsunKlkn/MakarnamPenneFlutter/main/assets/3.png" width="220" style="border-radius: 12px; margin: 10px;" />
+  <img src="https://raw.githubusercontent.com/MahsunKlkn/MakarnamPenneFlutter/main/assets/4.png" width="220" style="border-radius: 12px; margin: 10px;" />
+  <img src="https://raw.githubusercontent.com/MahsunKlkn/MakarnamPenneFlutter/main/assets/5.png" width="220" style="border-radius: 12px; margin: 10px;" />
+</p>
+</details>
+
 <details>
 <summary><b>💼 Benim İşim Projesi</b></summary>
 
