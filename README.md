@@ -63,7 +63,7 @@
 ### 🎓 CampStu – Ekran Görüntüleri
 
 <p align="center">
-  <img src="assets/7.png" width="220" style="border-radius: 12px; margin: 10px;" />
+  <img src="assets/7.png"  style="border-radius: 12px; margin: 10px;" />
 </p>
 </details>
 
