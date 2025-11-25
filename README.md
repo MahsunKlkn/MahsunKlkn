@@ -52,7 +52,7 @@
   </a>
 </div>
 
-<details>
+<details open>
 <summary><b>📱 CampStu Uygulaması</b></summary>
 
 <ul>
@@ -69,7 +69,7 @@
 
 
 
-<details>
+<details open>
 <summary><b>🚗 Ehliyet Yolum Uygulaması</b></summary>
 
 <ul>
