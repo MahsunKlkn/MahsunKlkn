@@ -2,7 +2,7 @@
 
 ## 🎯 Kısaca
 
-  9 Şubat 2001 doğumluyum ve Adana’da yaşıyorum. Eğitim hayatıma Bingöl Üniversitesi’nde başladım, ardından İnönü Üniversitesi’nde eğitimimi tamamladım. Sürekli kendimi geliştirmeye odaklanarak çeşitli projelerde yer aldım ve özellikle mobil uygulama geliştirme alanına ilgi duyuyorum. Bu alanda projeler geliştirerek deneyim kazanıyor, her geçen gün yeni teknolojiler öğrenmeye çalışıyorum.  Hedefim, bilgi birikimimi sürekli artırarak başarılı bir mühendis olarak kariyerime yön vermek. Takım çalışmasına önem veren, insanları motive edebilen ve yeniliklere açık biriyim. Öğrenme ve gelişme tutkum, hem kişisel hem de profesyonel hayatımda en büyük motivasyon kaynaklarım arasında yer alıyor.
+  9 Şubat 2001 doğumluyum. Eğitim hayatıma Bingöl Üniversitesi’nde başladım, ardından İnönü Üniversitesi’nde eğitimimi tamamladım. Sürekli kendimi geliştirmeye odaklanarak çeşitli projelerde yer aldım ve özellikle mobil uygulama geliştirme alanına ilgi duyuyorum. Bu alanda projeler geliştirerek deneyim kazanıyor, her geçen gün yeni teknolojiler öğrenmeye çalışıyorum.  Hedefim, bilgi birikimimi sürekli artırarak başarılı bir mühendis olarak kariyerime yön vermek. Takım çalışmasına önem veren, insanları motive edebilen ve yeniliklere açık biriyim. Öğrenme ve gelişme tutkum, hem kişisel hem de profesyonel hayatımda en büyük motivasyon kaynaklarım arasında yer alıyor.
 
 ## 🛠️ Teknolojiler & Araçlar
 
